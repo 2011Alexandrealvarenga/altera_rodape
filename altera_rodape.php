@@ -13,3 +13,5 @@ Text Domain: altera informações do rodape
  function meu_plugin_altera_rodape(){
   acho "meu primeiro plugin";
  }
+
+ add_action('wp_footer','meu_plugin_altera_rodape');
