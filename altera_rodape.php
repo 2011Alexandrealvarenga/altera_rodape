@@ -10,3 +10,6 @@ License: GLP2
 Text Domain: altera informações do rodape
 */
  
+ function meu_plugin_altera_rodape(){
+  acho "meu primeiro plugin";
+ }
